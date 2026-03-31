@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-저는 고기를 좋아해요
+I'm Kwang Jin Cha
 
 <!--
 **ckrhkdwls/ckrhkdwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
