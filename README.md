@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+저는 고기를 좋아해요
+
 <!--
 **ckrhkdwls/ckrhkdwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
