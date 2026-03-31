@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kwang Jin Cha
+I'm KwangJin Cha
 
 <!--
 **ckrhkdwls/ckrhkdwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
