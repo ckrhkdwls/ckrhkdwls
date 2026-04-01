@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi, I'm KwangJin Cha 👋
 
-I'm KwangJin Cha
+## 🎈Activity 
 
+● 영남대학교 멋생이사자처럼 14기 BE (2026.03~현재)
+
+## 📭Connect
+heart08300@gmial.com
 <!--
 **ckrhkdwls/ckrhkdwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
